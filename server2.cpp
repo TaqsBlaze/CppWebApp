@@ -1,6 +1,6 @@
 /*
 I'm working on extending this to be a web application and API
-
+this is for educational purposes only
 */
 #include <boost/asio.hpp>
 #include <iostream>
